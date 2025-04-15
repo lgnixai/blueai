@@ -1,6 +1,6 @@
 {
-    "name": "@ginvm/blueai",
-    "version": "2.0.0-alpha.9",
+    "name": "@lgnixai/blueai",
+    "version": "2.0.1",
     "description": "A Web IDE UI Framework built with React.js, inspired by VSCode.",
     "module": "./esm/index.js",
     "typings": "./esm/index.d.ts",
@@ -42,7 +42,7 @@
             "optional": true
         }
     },
-    "repository": "https://github.com/DTStack/molecule",
+    "repository": "https://github.com/lgnixai/blueai",
     "publishConfig": {
         "registry": "https://registry.npmjs.org/"
     },
