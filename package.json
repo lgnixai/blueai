@@ -1,6 +1,6 @@
 {
-    "name": "@lgnixai/blueai",
-    "version": "2.0.6",
+    "name": "noteasy",
+    "version": "2.0.7",
     "description": "A Web IDE UI Framework built with React.js, inspired by VSCode.",
     "module": "./esm/index.js",
     "typings": "./esm/index.d.ts",
