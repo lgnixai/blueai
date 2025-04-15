@@ -1,6 +1,6 @@
 {
     "name": "@lgnixai/blueai",
-    "version": "2.0.3",
+    "version": "2.0.4",
     "description": "A Web IDE UI Framework built with React.js, inspired by VSCode.",
     "module": "./esm/index.js",
     "typings": "./esm/index.d.ts",
@@ -14,7 +14,7 @@
         "lint": "npx eslint './src/**/*.ts' './src/**/*.tsx'",
         "prettier": "npx prettier --write src/",
         "prepublishOnly": "npm run build",
-        "release": "bumpp --commit --push --tag && npm publish"
+        "release": "bumpp --commit --push --tag && npm publish --access public"
     },
     "keywords": [
         "react.js",
